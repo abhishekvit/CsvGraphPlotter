@@ -1,0 +1,13 @@
+C:\Users\HP\Desktop\session files\CsvGraphPlotter\CsvGraphPlotter\bin\Debug\CsvGraphPlotter.exe.config
+C:\Users\HP\Desktop\session files\CsvGraphPlotter\CsvGraphPlotter\bin\Debug\CsvGraphPlotter.exe
+C:\Users\HP\Desktop\session files\CsvGraphPlotter\CsvGraphPlotter\bin\Debug\CsvGraphPlotter.pdb
+C:\Users\HP\Desktop\session files\CsvGraphPlotter\CsvGraphPlotter\obj\Debug\CsvGraphPlotter.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\session files\CsvGraphPlotter\CsvGraphPlotter\obj\Debug\CsvGraphPlotter.Form1.resources
+C:\Users\HP\Desktop\session files\CsvGraphPlotter\CsvGraphPlotter\obj\Debug\CsvGraphPlotter.Properties.Resources.resources
+C:\Users\HP\Desktop\session files\CsvGraphPlotter\CsvGraphPlotter\obj\Debug\CsvGraphPlotter.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\session files\CsvGraphPlotter\CsvGraphPlotter\obj\Debug\CsvGraphPlotter.exe
+C:\Users\HP\Desktop\session files\CsvGraphPlotter\CsvGraphPlotter\obj\Debug\CsvGraphPlotter.pdb
+C:\Users\HP\Desktop\session files\CsvGraphPlotter\CsvGraphPlotter\bin\Debug\CsvGraphPlotter.exe.manifest
+C:\Users\HP\Desktop\session files\CsvGraphPlotter\CsvGraphPlotter\bin\Debug\CsvGraphPlotter.application
+C:\Users\HP\Desktop\session files\CsvGraphPlotter\CsvGraphPlotter\obj\Debug\CsvGraphPlotter.exe.manifest
+C:\Users\HP\Desktop\session files\CsvGraphPlotter\CsvGraphPlotter\obj\Debug\CsvGraphPlotter.application
